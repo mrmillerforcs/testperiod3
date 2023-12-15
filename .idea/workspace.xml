@@ -4,26 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd352158-f123-48b9-b76e-3fe70caa4bf9" name="Changes" comment="added SomeClass">
-      <change beforePath="$PROJECT_DIR$/src/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SomeClass.java" afterDir="false" />
+    <list default="true" id="fd352158-f123-48b9-b76e-3fe70caa4bf9" name="Changes" comment="added more print statments">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ZaER1D6DYaBWS9tVlcse5wSfEM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,16 +21,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,26 +36,29 @@
       <option name="presentableId" value="Default" />
       <updated>1702651777795</updated>
     </task>
-    <task id="LOCAL-00001" summary="initial commit">
-      <created>1702651908627</created>
+    <task id="LOCAL-00001" summary="Added print statement">
+      <option name="closed" value="true" />
+      <created>1702652156301</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1702651908627</updated>
+      <updated>1702652156301</updated>
     </task>
-    <task id="LOCAL-00002" summary="added print">
-      <created>1702652370297</created>
+    <task id="LOCAL-00002" summary="xml">
+      <option name="closed" value="true" />
+      <created>1702652560837</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1702652370297</updated>
+      <updated>1702652560837</updated>
     </task>
-    <task id="LOCAL-00003" summary="added SomeClass">
-      <created>1702652528555</created>
+    <task id="LOCAL-00003" summary="added more print statments">
+      <option name="closed" value="true" />
+      <created>1702652699720</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1702652528555</updated>
+      <updated>1702652699720</updated>
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
@@ -86,9 +75,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="initial commit" />
-    <MESSAGE value="added print" />
-    <MESSAGE value="added SomeClass" />
-    <option name="LAST_COMMIT_MESSAGE" value="added SomeClass" />
+    <MESSAGE value="Added print statement" />
+    <MESSAGE value="xml" />
+    <MESSAGE value="added more print statments" />
+    <option name="LAST_COMMIT_MESSAGE" value="added more print statments" />
   </component>
 </project>
