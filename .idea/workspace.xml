@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd352158-f123-48b9-b76e-3fe70caa4bf9" name="Changes" comment="added more print statments">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fd352158-f123-48b9-b76e-3fe70caa4bf9" name="Changes" comment="editted print" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +58,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702652699720</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="editted print">
+      <option name="closed" value="true" />
+      <created>1702653085330</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702653085330</updated>
+    </task>
+    <task id="LOCAL-00005" summary="editted print">
+      <option name="closed" value="true" />
+      <created>1702653260517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702653260517</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +92,7 @@
     <MESSAGE value="Added print statement" />
     <MESSAGE value="xml" />
     <MESSAGE value="added more print statments" />
-    <option name="LAST_COMMIT_MESSAGE" value="added more print statments" />
+    <MESSAGE value="editted print" />
+    <option name="LAST_COMMIT_MESSAGE" value="editted print" />
   </component>
 </project>

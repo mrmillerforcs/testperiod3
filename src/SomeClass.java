@@ -8,4 +8,8 @@ public class SomeClass {
     public void millerMethod() {
         System.out.println("period 3 is awesome");
     }
+
+    public void munimMethod() {
+        System.out.println("sleep now pls");
+    }
 }
