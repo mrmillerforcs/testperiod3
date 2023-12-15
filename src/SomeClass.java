@@ -12,4 +12,8 @@ public class SomeClass {
     public void period3Rules() {
         System.out.println("its friday!");
     }
+
+    public void munimMethod() {
+        System.out.println("sleep now pls");
+    }
 }
