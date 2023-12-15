@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd352158-f123-48b9-b76e-3fe70caa4bf9" name="Changes" comment="initial commit" />
+    <list default="true" id="fd352158-f123-48b9-b76e-3fe70caa4bf9" name="Changes" comment="added SomeClass">
+      <change beforePath="$PROJECT_DIR$/src/SomeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SomeClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702651908627</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added print">
+      <created>1702652370297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702652370297</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added SomeClass">
+      <created>1702652528555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702652528555</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +87,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added print" />
+    <MESSAGE value="added SomeClass" />
+    <option name="LAST_COMMIT_MESSAGE" value="added SomeClass" />
   </component>
 </project>
