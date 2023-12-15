@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello period 3");
+        System.out.println("today is friday");
         System.out.println("today is a wonderful friday");
         System.out.println("one more");
         System.out.println("Somebody once told me the world was gonna roll me");
